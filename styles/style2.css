@@ -1,0 +1,60 @@
+@import url('http://fonts.cdnfonts.com/css/harry-potter');
+
+body{
+    background-image: url("https://www.xtrafondos.com/descargar.php?id=3547&resolucion=1920x1080");
+    background-size: 100%;
+}
+
+#hola{
+    background-color: #F1D793;
+    width: 30%;
+    height: 480px;
+    margin-top: -16%;
+    border-radius: 17px;
+    
+}
+
+.leon{
+    margin-top: -5%;
+}
+
+button{
+    background-color: #FFBF00 ;
+    width: 10%;
+    height: 45px;
+    margin-top: -20%;
+    border: none;
+    border-radius: 35px;
+}
+
+#imag{
+    margin-top: 12%;
+    border-radius: 17px;
+    width: 80%;
+    margin-left: 9%;
+}
+
+
+#hola{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    background-color: #F1D793;
+    border: none;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    font-family: 'Harry Potter', sans-serif;
+                                                
+}
+
+#nombre{
+    font-family: 'Harry Potter', sans-serif;     
+    font-size: 35px;                            
+}
+
+#escuela{
+    font-size: 20px; 
+}
